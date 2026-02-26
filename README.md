@@ -37,4 +37,4 @@ While I already hold a year-long **Master's/Bootcamp in Big Data, AI, and Machin
 * Apply advanced visualization tools (Folium/Dash) to a real-world aerospace case study.
 
 ---
-*Feel free to explore the notebooks! If you're interested in my profile as a Data Scientist, let's connect on [LinkedIn](TU_URL_DE_LINKEDIN_AQUI).*
+*Feel free to explore the notebooks! If you're interested in my profile as a Data Scientist, let's connect on [LinkedIn](www.linkedin.com/in/anelvalle).*
